@@ -1,0 +1,7 @@
+{
+  "name": "Milo DeepSpace v11",
+  "description": "Observation intelligence and professional astronomical analysis platform merging AI with real astrophysical data.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
